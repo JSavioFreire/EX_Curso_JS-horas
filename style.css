@@ -16,13 +16,19 @@ header{
 section{
     background-color: white;
     width: 400px;
-    height: 350px;
+    height: 400px;
     margin: auto;
     text-align: center;
     margin-top: 10px;
-    padding-top: 50px;
+    padding-top: 0px;
     border-radius: 20px;
     border: 2px solid black;
+
+}
+
+#titulo{
+    color: black;
+
 
 }
 
@@ -38,6 +44,9 @@ section{
     color: black;
 }
 
-footer{
+#fim{
     font-style: italic;
+    color: black;
+    text-align: end;
+    margin-top: 250px;
 }
